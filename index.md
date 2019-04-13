@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+
+<img src="{{site.baseurl}}/test-img.jpg">
+
