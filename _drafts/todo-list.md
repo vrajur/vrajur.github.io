@@ -27,5 +27,10 @@ title: ToDo List
 - [ ] Decide topic
 
 
-
+4. **Post Ideas:**
+ - [ ] Math Vocabulary/Flash Cards
+ - [ ] Lie Algebras/Tangent Spaces
+ - [ ] Nonlinear optimization
+ - [ ] Bundle Adjustment
+ - [ ] Deep Learning Foundations  
 
