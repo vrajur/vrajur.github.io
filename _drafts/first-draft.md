@@ -31,7 +31,7 @@ Trying out embedding Three.JS (credit to [Long Qian's post](http://longqian.me/2
 	const camera = new THREE.PerspectiveCamera(75, width/height, 0.1, 1000);
 	camera.position.z = 4;
 	const renderer = new THREE.WebGLRenderer({antialias: true});
-	renderer.setClearColor("#000000");
+	renderer.setClearColor("#FDFDFD");
 	renderer.setSize(width, height);
 	canvasHolder.appendChild(renderer.domElement);
 
