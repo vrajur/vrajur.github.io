@@ -7,9 +7,14 @@ Welcome to my website's github repository. My blog is built and hosted using jek
 ## Repository Directory Structure:
 
 `_drafts`: In-progress blog posts live here (this is a privileged directory in jekyll's framework).
+
 `_includes`: This is another priviledged directory that contains markdown and html pages that can be included in posts.
+
 `_notes`: This is just a place for me to store my notes.
+
 `_posts`: This is where all my blog posts live.
+
 `_site`: This is the webroot directory used by jekyll to serve pages to client browsers. It is automatically built by jekyll.
+
 `code`: This is where all my code snippets, classes, and external library dependencies live.
 
